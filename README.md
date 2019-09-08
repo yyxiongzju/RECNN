@@ -1,5 +1,5 @@
 # An implementation of RECNN "On Training Deep 3D CNN Models with Dependent Samples in Neuroimaging"
-This is an implementation of RECNN as decribed in the paper "On Training Deep 3D CNN Models with Dependent Samples in Neuroimaging"
+This is an implementation of RECNN as decribed in the paper [On Training Deep 3D CNN Models with Dependent Samples in Neuroimaging](https://link.springer.com/chapter/10.1007/978-3-030-20351-1_8)
 
 # Training Recipe
 1. number of epochs:50
