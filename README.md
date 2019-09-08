@@ -7,7 +7,7 @@ This is an implementation of RECNN as decribed in the paper [On Training Deep 3D
 3. weight decay: 4e-5
 
 # Usage 
-python recnn.py --gpus=0,1 --workers=16 --classes=2 --batch-size=8 --model=recnn --save=RECNN --learning_rate=0.0001 --h5dir=../datasets --seed=97 --log-interval=5
+python recnn.py --gpus=0,1 --workers=16 --classes=2 --batch-size=8 --model=recnn --save=RECNN --learning_rate=0.0001 --h5dir=../datasets --log-interval=5
 
 # Reference
 ```
